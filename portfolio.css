@@ -1,0 +1,39 @@
+h1 {
+	padding-top: 20px;
+	color: rebeccapurple;
+	text-align: center;
+	font-family: 'Indie Flower', cursive;
+	font-size: 45px;
+}
+
+body {
+	background-color: navajowhite;
+}
+
+h3 {
+	color: rebeccapurple;
+	font-family: 'Indie Flower', cursive;
+	text-align: left;
+	padding: 20px;
+	text-align: center;
+}
+
+.favouriteThings {
+	padding-top: 15px;
+	text-align: center;
+}
+
+h3 {
+	color: rebeccapurple;
+	font-family: 'Indie Flower', cursive;
+	padding-left: 25px;
+	padding-bottom: 15px;
+	text-decoration: underline;
+	font-size: 25px;
+}
+
+.bio {
+	color: rebeccapurple;
+	font-family: 'Indie Flower', cursive;
+	font-size: 20px;
+}
